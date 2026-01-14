@@ -13,9 +13,8 @@ const About = () => {
           <div className="relative group">
             <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 to-cyan-600 rounded-2xl blur opacity-25 group-hover:opacity-75 transition duration-1000 group-hover:duration-200"></div>
             <div className="relative aspect-square rounded-2xl bg-slate-800 overflow-hidden flex items-center justify-center">
-              {/* Placeholder for profile image */}
-              <User className="w-32 h-32 text-slate-600" />
-            </div>
+  <img src="./src/assets/profile.jpg" alt="Profile" className="w-full h-full object-cover" />
+</div>
           </div>
 
           <div className="space-y-6">

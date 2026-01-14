@@ -5,30 +5,23 @@ const Contact = () => {
     {
       name: 'GitHub',
       icon: <Github className="w-5 h-5" />,
-      url: 'https://github.com',
+      url: 'https://github.com/beratmen',
       color: 'hover:bg-gray-800',
-      username: '@johndoe'
+      username: '@beratmen'
     },
     {
       name: 'LinkedIn',
       icon: <Linkedin className="w-5 h-5" />,
-      url: 'https://linkedin.com',
+      url: 'https://linkedin.com/in/beratmen/',
       color: 'hover:bg-blue-700',
-      username: 'John Doe'
-    },
-    {
-      name: 'Twitter',
-      icon: <Twitter className="w-5 h-5" />,
-      url: 'https://twitter.com',
-      color: 'hover:bg-sky-500',
-      username: '@johndoe_dev'
+      username: 'Berat MEN'
     },
     {
       name: 'Website',
       icon: <Globe className="w-5 h-5" />,
-      url: 'https://example.com',
+      url: 'https://beratmen-com.vercel.app/',
       color: 'hover:bg-emerald-600',
-      username: 'johndoe.dev'
+      username: 'beratmen'
     }
   ];
 

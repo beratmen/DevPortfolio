@@ -13,7 +13,7 @@ const Hero = () => {
             Hi, my name is
           </h2>
           <h1 className="text-5xl sm:text-7xl font-bold text-white tracking-tight animate-fade-in-up delay-100">
-            John Doe
+            Berat MEN
             <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300 mt-2">
               Full Stack Developer
             </span>

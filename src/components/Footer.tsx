@@ -1,4 +1,4 @@
-import { Github, Linkedin, Twitter, Heart } from 'lucide-react';
+import { Github, Linkedin, Heart } from 'lucide-react';
 
 const Footer = () => {
   return (
@@ -21,9 +21,7 @@ const Footer = () => {
             <a href="#" className="text-slate-400 hover:text-white transition-colors">
               <Linkedin className="w-5 h-5" />
             </a>
-            <a href="#" className="text-slate-400 hover:text-white transition-colors">
-              <Twitter className="w-5 h-5" />
-            </a>
+            
           </div>
         </div>
         
